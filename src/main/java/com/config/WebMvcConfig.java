@@ -7,7 +7,6 @@ import org.springframework.web.servlet.config.annotation.*;
  * Created by user on 28.12.16.
  */
 @Configuration
-@EnableWebMvc
 public class WebMvcConfig extends WebMvcConfigurerAdapter {
 
     @Override
